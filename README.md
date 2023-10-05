@@ -1,5 +1,3 @@
-# FRT-Microsoft-Final-Project 
-
 # Project Name: COVID-19 Info
 
 ### Problem Statement/Opportunity:
