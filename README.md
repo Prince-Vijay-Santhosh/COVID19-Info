@@ -29,4 +29,5 @@ The COVID-19 Info project will have the following key features:
 
 The COVID-19 Info project will provide a valuable resource for information on the virus, helping people to stay safe and healthy. The project will also help to raise awareness of COVID-19 and its prevention.
 
-###
+### Live Link:
+https://covid-19-info-one.vercel.app/
